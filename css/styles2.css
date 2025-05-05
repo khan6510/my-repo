@@ -1,71 +1,18 @@
-hl{
-background-color: rgb(157, 169, 164);
-text-wrap: none;
-}
-body{
-
-background-color: rgb(39, 136, 178);
-
-}
-
 p{
 
 
-    color: blue;
-    border: solid 20px 
-;
-margin:50px;
-}
- .p2{
 
-
-  background-color: blue;
-
-
- }
-
-
- .p2{
-
-color: blueviolet;
-width: 300px;
-height: 200px;
-border: solid 10px  green;
-margin: 50px;
-
-padding: 15px;
- }
- image{
-width: 300px;
-height: 200px;
-
-
-
- }
-
-
-
-
- .p4{
-
-
-
-    background-color: rgb(181, 214, 105);
+    background-color: red;
     text-align: center;
-    margin: 40px;
-    border: solid 20px;
- }
+    border: solid 10 px;
+    text-shadow: none; 
+    width: 400px;
+    height: 300px;
 
 
- #asad{
-
-background-color: aqua;
-text-align: right;
-margin: 40px;
-width: 300px;
-height: 200px;
-font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-font-size: medium;
 
 
- }
+
+
+
+}
